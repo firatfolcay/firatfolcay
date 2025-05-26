@@ -2,12 +2,14 @@
 
 <h3>
 - 📚 MSc. Student at Turkish-German University <br>
-- 🌌 Computer Scientist at Turkish-German University Digital Transformation Office <br>
+- 🌌 Research Assistant in Yildiz Technical University <br>
 - 🔭 I’m currently working on an Artificial Intelligence Based Analysis of
 Vital Signs for Improvement of Healthcare Services Using MIMIC-III Waveform Database <br>
 - 🔎 Focused on AI and Data Science topics<br>
 - 🖥️ Currently studying Image Processing and Recognation Systems <br>
+- Here is my first paper that I presented in an IEEE conference <a href="https://ieeexplore.ieee.org/abstract/document/10601026">Correlation Analysis Between Vital Signs Of Patients In Intensive Care Unit </a>
  </h3>
+ 
  
  <p align="center"> 
 <a href="#"> <img src="./40544125.jfif" alt="Firat_Olcay_Logo" width="128"/> </a>
