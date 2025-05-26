@@ -3,10 +3,8 @@
 <h3>
 - 📚 MSc. Student at Turkish-German University <br>
 - 🌌 Computer Scientist at Turkish-German University Digital Transformation Office <br>
-- 🔭 I’m currently working on an my Masters thesis named Artificial Intelligence Based Analysis of
-Vital Signs for Improvement of
-Healthcare Services Using MIMIC-III
-Waveform Database <br>
+- 🔭 I’m currently working on an Artificial Intelligence Based Analysis of
+Vital Signs for Improvement of Healthcare Services Using MIMIC-III Waveform Database <br>
 - 🔎 Focused on AI and Data Science topics<br>
 - 🖥️ Currently studying Image Processing and Recognation Systems <br>
  </h3>
